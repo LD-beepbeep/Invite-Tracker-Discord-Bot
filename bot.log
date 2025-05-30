@@ -1,0 +1,101 @@
+2025-05-30 10:11:37,130 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:11:37,134 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:11:37,192 - database - INFO - Database initialized successfully
+2025-05-30 10:11:37,193 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable is required!
+2025-05-30 10:11:37,213 - database - INFO - Database initialized successfully
+2025-05-30 10:11:37,214 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable is required!
+2025-05-30 10:14:00,420 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:14:00,420 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:14:00,422 - database - INFO - Database initialized successfully
+2025-05-30 10:14:00,422 - database - INFO - Database initialized successfully
+2025-05-30 10:14:00,423 - discord.client - INFO - logging in using static token
+2025-05-30 10:14:00,423 - discord.client - INFO - logging in using static token
+2025-05-30 10:14:00,831 - __main__ - INFO - Daily leaderboard task started
+2025-05-30 10:14:00,855 - __main__ - INFO - Daily leaderboard task started
+2025-05-30 10:14:01,030 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-30 10:14:01,137 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-30 10:14:04,267 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:14:04,267 - database - INFO - Database initialized successfully
+2025-05-30 10:14:04,268 - discord.client - INFO - logging in using static token
+2025-05-30 10:14:04,681 - __main__ - INFO - Daily leaderboard task started
+2025-05-30 10:14:05,983 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-05-30 10:14:11,205 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-30 10:14:17,344 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:14:17,345 - database - INFO - Database initialized successfully
+2025-05-30 10:14:17,346 - discord.client - INFO - logging in using static token
+2025-05-30 10:14:17,978 - __main__ - INFO - Daily leaderboard task started
+2025-05-30 10:14:18,327 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-30 10:14:21,695 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:14:21,695 - database - INFO - Database initialized successfully
+2025-05-30 10:14:21,696 - discord.client - INFO - logging in using static token
+2025-05-30 10:14:22,208 - __main__ - INFO - Daily leaderboard task started
+2025-05-30 10:14:22,473 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-30 10:15:09,156 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:15:09,157 - database - INFO - Database initialized successfully
+2025-05-30 10:15:09,158 - discord.client - INFO - logging in using static token
+2025-05-30 10:15:09,773 - __main__ - INFO - Daily leaderboard task started
+2025-05-30 10:15:10,023 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-30 10:15:14,566 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:15:14,568 - database - INFO - Database initialized successfully
+2025-05-30 10:15:14,569 - discord.client - INFO - logging in using static token
+2025-05-30 10:15:15,723 - __main__ - INFO - Daily leaderboard task started
+2025-05-30 10:15:16,012 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-30 10:54:32,114 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:54:32,117 - database - INFO - Database initialized successfully
+2025-05-30 10:54:32,118 - discord.client - INFO - logging in using static token
+2025-05-30 10:54:33,068 - __main__ - INFO - Daily leaderboard task started
+2025-05-30 10:54:33,282 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 57b89e68dfa2769904d244a0936853ba).
+2025-05-30 10:54:36,195 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:54:36,196 - database - INFO - Database initialized successfully
+2025-05-30 10:54:36,197 - discord.client - INFO - logging in using static token
+2025-05-30 10:54:36,745 - __main__ - INFO - Daily leaderboard task started
+2025-05-30 10:54:37,183 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e59fc59afe1cabed7985eeda17a904e8).
+2025-05-30 10:54:39,196 - __main__ - INFO - Daily Invite Tracker#3224 has connected to Discord!
+2025-05-30 10:54:39,196 - __main__ - INFO - Bot is in 1 guilds
+2025-05-30 10:54:40,001 - invite_tracker - INFO - Cached 9 invites for guild Overclocked Café
+2025-05-30 10:56:43,250 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-05-30 10:56:48,437 - __main__ - ERROR - Failed to start bot: Shard ID None WebSocket closed with 4004
+2025-05-30 10:57:18,084 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:57:18,087 - database - INFO - Database initialized successfully
+2025-05-30 10:57:18,088 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable is required!
+2025-05-30 10:57:22,834 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:57:22,834 - database - INFO - Database initialized successfully
+2025-05-30 10:57:22,835 - discord.client - INFO - logging in using static token
+2025-05-30 10:57:23,247 - __main__ - INFO - Daily leaderboard task started
+2025-05-30 10:57:23,459 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: dfd4041275f2e2efa7ae41182510f9f3).
+2025-05-30 10:57:25,473 - __main__ - INFO - Daily Invite Tracker#3224 has connected to Discord!
+2025-05-30 10:57:25,473 - __main__ - INFO - Bot is in 1 guilds
+2025-05-30 10:57:25,473 - __main__ - INFO - Connected to guild: Overclocked Café (ID: 1371858382687834163)
+2025-05-30 10:57:27,108 - invite_tracker - INFO - Cached 9 invites for guild Overclocked Café
+2025-05-30 10:57:28,603 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 10:57:28,604 - database - INFO - Database initialized successfully
+2025-05-30 10:57:28,605 - discord.client - INFO - logging in using static token
+2025-05-30 10:57:28,972 - __main__ - INFO - Daily leaderboard task started
+2025-05-30 10:57:29,176 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cacef625776f49485d99673c5bef6416).
+2025-05-30 10:57:31,193 - __main__ - INFO - Daily Invite Tracker#3224 has connected to Discord!
+2025-05-30 10:57:31,193 - __main__ - INFO - Bot is in 1 guilds
+2025-05-30 10:57:31,193 - __main__ - INFO - Connected to guild: Overclocked Café (ID: 1371858382687834163)
+2025-05-30 10:57:31,840 - invite_tracker - INFO - Cached 9 invites for guild Overclocked Café
+2025-05-30 10:58:37,641 - __main__ - INFO - Received message: '!help' from larsdehairs in Overclocked Café
+2025-05-30 10:58:37,644 - __main__ - INFO - Help command called by larsdehairs in Overclocked Café
+2025-05-30 10:58:37,830 - __main__ - INFO - Received message: '' from Carl-bot#1536 in Overclocked Café
+2025-05-30 10:58:37,831 - __main__ - INFO - Received message: '' from FlaviBot#2819 in Overclocked Café
+2025-05-30 10:58:57,119 - __main__ - INFO - Received message: '!leaderboard' from larsdehairs in Overclocked Café
+2025-05-30 10:58:57,234 - __main__ - INFO - Received message: 'Here is the link to see the server ranking:' from FlaviBot#2819 in Overclocked Café
+2025-05-30 10:59:41,616 - __main__ - INFO - Received message: '@everyone i made a bot that tracks all the invites sent to this sever' from larsdehairs in Overclocked Café
+2025-05-30 10:59:47,221 - __main__ - INFO - Received message: 'and it works!' from larsdehairs in Overclocked Café
+2025-05-30 11:00:13,659 - __main__ - INFO - Received message: '!daily' from larsdehairs in Overclocked Café
+2025-05-30 11:00:43,529 - __main__ - INFO - Received message: 'use these commands: 
+
+
+!help - View all available commands
+!leaderboard - See who has the most successful invites
+!stats - Check your own invite statistics
+!daily - View weekly invite activity' from larsdehairs in Overclocked Café
+2025-05-30 11:01:01,453 - __main__ - INFO - Received message: '!stats' from larsdehairs in Overclocked Café
+2025-05-30 11:01:01,581 - __main__ - INFO - Received message: '' from FlaviBot#2819 in Overclocked Café
+2025-05-30 11:05:33,374 - __main__ - INFO - Received message: '' from Carl Gaming#0000 in Overclocked Café
+2025-05-30 11:10:05,563 - __main__ - INFO - Received message: '!leaderboard' from windowm in Overclocked Café
+2025-05-30 11:10:05,798 - __main__ - INFO - Received message: 'Here is the link to see the server ranking:' from FlaviBot#2819 in Overclocked Café
+2025-05-30 11:10:33,764 - __main__ - INFO - Received message: '!stats' from windowm in Overclocked Café
+2025-05-30 11:10:33,975 - __main__ - INFO - Received message: '' from FlaviBot#2819 in Overclocked Café
